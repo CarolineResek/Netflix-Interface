@@ -1,4 +1,4 @@
-# Netflix_Interface_Clone
+# Netflix-Interface
 
 Recreating Netflix interface with HTML, CSS and JS files.
 
